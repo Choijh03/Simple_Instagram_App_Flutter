@@ -2,6 +2,8 @@
 
 This is simple Instagram Application built on Flutter 3.7
 
+It shows different feeds with function of like button.
+
 Android View:
 
 ![1](https://user-images.githubusercontent.com/98497929/221344667-f93de784-6be4-44b3-a7a2-c092d7b47f47.PNG)
